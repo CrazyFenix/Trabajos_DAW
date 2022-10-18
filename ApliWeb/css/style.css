@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(195, 243, 245);
+    font-size: large;
+    text-align: center;
+}
+input{
+    background-color: rgb(180, 189, 255);
+    border-color: black;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(235, 217, 251);
+}
+
+h1{
+    background-color: rgb(196, 252, 233);
+    border-radius: 40px;
+    border-color: black;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+*{
+  margin: 140;
+  padding: 140;
+  box-sizing: border-box;
+}
+
+table{
+    width: 400px;
+    background-color: rgb(176, 218, 255);
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 5px;
+    border-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    color: black;
+}
